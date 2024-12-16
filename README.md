@@ -2,45 +2,45 @@
 
 ## Data Structures and Algorithms
 
-- [ ] Introduction to Programming
-  - - [ ] Types of languages
-  - - [ ] Memory management
-- [ ] Flow of the program
-  - - [ ] Flowcharts
-  - - [ ] Pseudocode
-- [ ] Introduction to Java
-  - - [ ] Introduction
-  - - [ ] How Java works
-  - - [ ] Setup Installation
-  - - [ ] Data types
-  - - [ ] Variables
-  - - [ ] Operators
-  - - [ ] Input and Output Statements
-  - - [ ] Control Statements
-    - - [ ] Conditional Statements
-        - - - [ ] if 
-        - - - [ ] if else
-        - - - [ ] Switch
-    - - [ ] Looping
-        - - - [ ] for
-        - - - [ ] while
-        - - - [ ] do while
-- [ ] Functions
-  - - [ ] Introduction
-  - - [ ] Scoping in Java
-  - - [ ] Overloading
-  - - [ ] Overriding
-  - - [ ] Shadowing
-  - - [ ] Variable Length Arguments
-- [ ] Pattern Problems
-    - - [ ] Star patterns
-    - - [ ] Number patterns
-    - - [ ] String patterns
-- [ ] Arrays
-  - - [ ] Introduction
-  - - [ ] Memory management
-  - - [ ] Input and Output
-  - - [ ] ArrayList Introduction
+- [X] Introduction to Programming
+  - - [X] Types of languages
+  - - [X] Memory management
+- [X] Flow of the program
+  - - [X] Flowcharts
+  - - [X] Pseudocode
+- [X] Introduction to Java
+  - - [X] Introduction
+  - - [X] How Java works
+  - - [X] Setup Installation
+  - - [X] Data types
+  - - [X] Variables
+  - - [X] Operators
+  - - [X] Input and Output Statements
+  - - [X] Control Statements
+    - - [X] Conditional Statements
+        - - - [X] if 
+        - - - [X] if else
+        - - - [X] Switch
+    - - [X] Looping
+        - - - [X] for
+        - - - [X] while
+        - - - [X] do while
+- [X] Functions
+  - - [X] Introduction
+  - - [X] Scoping in Java
+  - - [X] Overloading
+  - - [X] Overriding
+  - - [X] Shadowing
+  - - [X] Variable Length Arguments
+- [X] Pattern Problems
+    - - [X] Star patterns
+    - - [X] Number patterns
+    - - [X] String patterns
+- [X] Arrays
+  - - [X] Introduction
+  - - [X] Memory management
+  - - [X] Input and Output
+  - - [X] ArrayList Introduction
   - - [ ] Sorting
     - - [ ] Insertion Sort
     - - [ ] Selection Sort
