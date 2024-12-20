@@ -41,17 +41,17 @@
   - - [X] Memory management
   - - [X] Input and Output
   - - [X] ArrayList Introduction
-  - - [ ] Sorting
-    - - [ ] Insertion Sort
-    - - [ ] Selection Sort
-    - - [ ] Bubble Sort
-    - - [ ] Cyclic Sort
-  - - [ ] 2D Arrays
-    - - [ ] Introduction
-    - - [ ] Traversal
-  - [ ] Searching
-    - - [ ] Linear Search
-    - - [ ] Binary Search
+  - - [X] Sorting
+    - - [X] Insertion Sort
+    - - [X] Selection Sort
+    - - [X] Bubble Sort
+    - - [X] Cyclic Sort
+  - - [X] 2D Arrays
+    - - [X] Introduction
+    - - [X] Traversal
+  - [X] Searching
+    - - [X] Linear Search
+    - - [X] Binary Search
 - [ ] Strings
   - [ ] Introduction
   - [ ] How Strings work
