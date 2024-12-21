@@ -22,8 +22,15 @@
 18. [X] [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 19. [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 20. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+<<<<<<< HEAD
 21. [X] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 22. [X] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+=======
+21. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+22. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+23. [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
+24. Kadane’s Algorithm
+>>>>>>> upstream/master
 
 
 ## 2D Array problems
