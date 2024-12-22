@@ -14,12 +14,5 @@ public class LineraSearch {
             }
         }
         System.out.println("key not found");
-        StringBuilder s1 = new StringBuilder();
-        StringBuilder s2 = new StringBuilder();
-        String s = s1.
-        if(s1.equals(s2)) System.out.println("e");
-        else System.out.println("not e");
-
-
     }
 }
