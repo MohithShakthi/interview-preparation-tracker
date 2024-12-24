@@ -1,9 +1,9 @@
 # Sotring Algorithms
 
-01. [ ] Bubble Sort
-02. [ ] Insertion Sort
-03. [ ] Selection Sort
-04. [ ] Cyclic Sort
+01. [X] Bubble Sort
+02. [X] Insertion Sort
+03. [X] Selection Sort
+04. [X] Cyclic Sort
 
 ## Cyclic Sort Problems
 
@@ -19,6 +19,6 @@
 ## Advanced Sorting Algorithm (Learn it after learning collections and recursion)
 
 01. [ ] Count Sort
-02. [ ] Merge Sort
-03. [ ] Quick Sort
+02. [X] Merge Sort
+03. [X] Quick Sort
 04. [ ] Radix Sort

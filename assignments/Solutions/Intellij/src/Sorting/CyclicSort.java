@@ -9,9 +9,12 @@ public class CyclicSort {
         System.out.println(Arrays.toString(arr));
     }
     public  static void cyclicSort(int[] arr){
-        for(int i=0;i<arr.length;i++){
-            while (!(arr[i] == i+1)){
+        int i = 0;
+        while(i<arr.length){
+            if(arr[i] != i+1){
                 swap(i,arr[i]-1,arr);
+            }else{
+                i++;
             }
         }
     }
