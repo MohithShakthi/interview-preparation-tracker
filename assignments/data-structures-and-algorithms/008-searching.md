@@ -28,10 +28,10 @@
 16. [X] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 17. [X] [Find nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/0)
 18. [X] [K-th element of two Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/0)
-19. [ ] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
+19. [X] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 20. [X] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-21. [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-22. [ ] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+21. [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+22. [X] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 ## Binary Search in 2D Array
 
@@ -40,4 +40,4 @@
 03. [X] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 04. [X] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 05. [X] [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
-06. [ ] [Median in a row-wise sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/0)
+06. [X] [Median in a row-wise sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/0)
